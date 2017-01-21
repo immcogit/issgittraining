@@ -1,0 +1,6 @@
+public class sruthy{
+public void sruthyfn()
+{
+System.out.println("sruthyInfo");
+}
+}
