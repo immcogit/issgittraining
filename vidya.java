@@ -6,5 +6,8 @@ public class Vidya{
     public void get(){
          system.out.println(name);
     }
+public void print(){
+    system.out.println("vidya is printing");
+}
 
 }
